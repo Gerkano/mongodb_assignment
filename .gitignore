@@ -1,0 +1,5 @@
+db/db_assignment.py
+venv
+db/logs_fruits_clothes.log
+db/db_clothes_fruits.py
+db/__pycache__
